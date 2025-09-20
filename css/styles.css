@@ -1,0 +1,80 @@
+footer {
+  border-top: 0.5rem solid rgb(107, 79, 79);
+}
+
+footer hr {
+  border: none;
+  border-top: 3px solid rgb(98, 130, 93);
+}
+
+.social {
+  background-color: rgba(209, 103, 39, 0.8);
+}
+
+.btn-bg {
+  background-color: rgb(98, 130, 93);
+}
+
+.btn-bg:hover {
+  background-color: rgba(98, 130, 93, 0.7);
+}
+
+.btn:active {
+  font-weight: 700;
+  transform: translateY(3px);
+  border: 2px solid rgb(98, 130, 93);
+  color: rgb(98, 130, 93) !important;
+}
+
+.custom-bg {
+  background-image: url("../Images/mike-kotsch-A9dNMBX9Zm4-unsplash.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.transparent-column {
+  background-color: rgba(209, 103, 39, 0.8);
+}
+
+.secondary-cta {
+  background-color: rgba(209, 103, 39, 0.8);
+}
+
+.fa-square {
+  color: rgb(98, 130, 93);
+}
+
+.fa-boot {
+  font-size: 1.5rem;
+  color: rgba(209, 103, 39, 0.8);
+}
+
+.fa-duotone {
+  font-size: 2rem;
+  color: rgb(98, 130, 93);
+}
+
+.fa-brands {
+  font-size: 2.5rem;
+}
+
+.modal img {
+  width: 75%;
+  height: auto;
+}
+
+.modal .btn {
+  background-color: rgb(98, 130, 93);
+  color: white;
+}
+
+.toast {
+  background-color: rgb(98, 130, 93);
+}
+
+.testamonials img {
+  width: 50%;
+  height: auto;
+  border-radius: 100px;
+}

@@ -1,0 +1,19 @@
+Colors -
+
+color pallet: 
+
+rgb(209,103,39)
+rgb(46, 152, 216)
+rgb(209, 140, 39)
+rgb(98, 130, 93)
+rgb(60, 61, 55)
+
+Fonts - (google fonts)
+
+Headings - Libre Baskerville
+Copy - Geist
+ 
+get copy inspiration and descriptions from:
+
+https://www.nols.edu/en/coursefinder/skills/rock-climbing/?gad_source=1&gclid=Cj0KCQiA0MG5BhD1ARIsAEcZtwR1-yHicwkn-gqXtxmi0TtrzVlS7oh_9bHrC-x-UZnRc2y_Ugu70UsaArcSEALw_wcB#
+

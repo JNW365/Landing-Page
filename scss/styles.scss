@@ -1,0 +1,90 @@
+
+
+$background-image: url('../Images/mike-kotsch-A9dNMBX9Zm4-unsplash.jpg');
+$bg-color: rgba(209,103,39,.8);
+$icon-color: rgb(98, 130, 93);
+$btn-bg: rgb(98, 130, 93);
+
+
+
+// footer styles
+footer {
+  border-top: .5rem solid rgb(107, 79, 79);
+}
+footer hr {
+  border: none;
+  border-top: 3px solid rgb(98, 130, 93);
+}
+.social {
+  background-color: $bg-color;
+}
+// button styles
+.btn-bg {
+  background-color: $btn-bg;
+}
+.btn-bg:hover {
+  background-color: rgba(98, 130, 93,0.7);
+}
+.btn:active {
+  font-weight: 700;
+  transform: translateY(3px);
+  border: 2px solid rgb(98, 130, 93);
+  color: rgb(98, 130, 93) !important;
+}
+
+.custom-bg {
+    background-image: $background-image;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.transparent-column {
+    background-color: $bg-color;
+    
+}
+// secondary-cta
+.secondary-cta {
+  background-color: $bg-color;
+}
+
+  // Icons
+  .fa-square {
+    color: $icon-color;
+  }
+  .fa-boot {
+    font-size: 1.5rem;
+    color: $bg-color;
+  }
+  .fa-duotone {
+    font-size: 2rem;
+    color: $icon-color;
+  }
+  .fa-brands {
+    font-size: 2.5rem;
+  }
+  
+  // Modal
+  .modal img {
+    width: 75%;
+    height: auto
+  }
+  .modal .btn {
+    background-color: $btn-bg;
+    color: white;
+  }
+// Toast
+
+.toast {
+  background-color: rgb(98, 130, 93);
+  
+  
+}
+
+// Testamonials
+
+.testamonials img {
+  width: 50%;
+  height: auto;
+  border-radius: 100px;
+}

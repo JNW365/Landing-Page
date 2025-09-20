@@ -1,0 +1,16 @@
+{
+  "name": "tincup-alpine",
+  "version": "1.0.0",
+  "description": "Landing Page project",
+  "main": "index.js",
+  "scripts": {
+    "sass-init": "sass --no-source-map scss:css",
+    "sass-watch": "sass --no-source-map --watch scss:css"
+  },
+  "author": "John White",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "sass": "^1.80.6"
+  }
+}
